@@ -6,4 +6,6 @@ router.get("/", (req, res) => {
   res.send("Hello World!");
 });
 
+router.use("/qa", require("./qa.controller"));
+
 module.exports = router;
