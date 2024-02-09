@@ -1,9 +1,9 @@
 require("dotenv").config();
-
 const express = require("express");
+const { initializeKnex } = require("./data/index.data");
+const router = require("./controllers/index.controller");
 
-// Import the router from controllers
-const router = require("./controllers");
+initializeKnex();
 
 const app = express();
 

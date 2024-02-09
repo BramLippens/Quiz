@@ -24,3 +24,7 @@ console.log('Server is running on port 3000');
 "scripts": {
 "start": "nodemon index.js"
 }
+
+# Add knex and postgres to the project
+
+npm install knex pg

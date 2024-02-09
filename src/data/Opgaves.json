@@ -1,0 +1,3638 @@
+[
+  {
+    "Woord": "å besøke",
+    "Vertaling_1": "bezoeken",
+    "Vertaling_2": "bijten",
+    "Vertaling_3": "beslissen",
+    "Vertaling_4": "interesseren",
+    "Oplossing": "bezoeken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å komme",
+    "Vertaling_1": "vermoeden",
+    "Vertaling_2": "komen",
+    "Vertaling_3": "dromen",
+    "Vertaling_4": "sterven",
+    "Oplossing": "komen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å låne",
+    "Vertaling_1": "blazen",
+    "Vertaling_2": "terugkomen",
+    "Vertaling_3": "lenen",
+    "Vertaling_4": "aanvaarden",
+    "Oplossing": "lenen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å gi",
+    "Vertaling_1": "slapen",
+    "Vertaling_2": "volgen",
+    "Vertaling_3": "werken",
+    "Vertaling_4": "geven",
+    "Oplossing": "geven",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å sove",
+    "Vertaling_1": "slapen",
+    "Vertaling_2": "leuk vinden",
+    "Vertaling_3": "praten",
+    "Vertaling_4": "halen",
+    "Oplossing": "slapen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å betale",
+    "Vertaling_1": "samenwerken",
+    "Vertaling_2": "betalen",
+    "Vertaling_3": "wijzen",
+    "Vertaling_4": "dromen",
+    "Oplossing": "betalen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å transportere",
+    "Vertaling_1": "slepen",
+    "Vertaling_2": "trainen",
+    "Vertaling_3": "vervoeren",
+    "Vertaling_4": "afsluiten",
+    "Oplossing": "vervoeren",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å jobbe",
+    "Vertaling_1": "afsluiten",
+    "Vertaling_2": "fluiten",
+    "Vertaling_3": "fietsen",
+    "Vertaling_4": "werken",
+    "Oplossing": "werken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å stå",
+    "Vertaling_1": "staan",
+    "Vertaling_2": "verlaten",
+    "Vertaling_3": "fluisteren",
+    "Vertaling_4": "storen",
+    "Oplossing": "staan",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å glemme",
+    "Vertaling_1": "klimmen",
+    "Vertaling_2": "vergeten",
+    "Vertaling_3": "beëindigen",
+    "Vertaling_4": "dansen",
+    "Oplossing": "vergeten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å huske",
+    "Vertaling_1": "vertellen",
+    "Vertaling_2": "eisen",
+    "Vertaling_3": "onthouden",
+    "Vertaling_4": "roepen",
+    "Oplossing": "onthouden",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å takke",
+    "Vertaling_1": "praten",
+    "Vertaling_2": "kloppen",
+    "Vertaling_3": "bedriegen",
+    "Vertaling_4": "bedanken",
+    "Oplossing": "bedanken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å reise",
+    "Vertaling_1": "reizen",
+    "Vertaling_2": "komen",
+    "Vertaling_3": "veranderen",
+    "Vertaling_4": "schudden",
+    "Oplossing": "reizen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å holde",
+    "Vertaling_1": "vinden",
+    "Vertaling_2": "vasthouden",
+    "Vertaling_3": "wenen",
+    "Vertaling_4": "brengen",
+    "Oplossing": "vasthouden",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å bære",
+    "Vertaling_1": "overwinteren",
+    "Vertaling_2": "horen",
+    "Vertaling_3": "dragen",
+    "Vertaling_4": "sluiten",
+    "Oplossing": "dragen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å avslutte",
+    "Vertaling_1": "drijven",
+    "Vertaling_2": "wegnemen",
+    "Vertaling_3": "toegeven",
+    "Vertaling_4": "beëindigen",
+    "Oplossing": "beëindigen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å dø",
+    "Vertaling_1": "sterven",
+    "Vertaling_2": "interesseren",
+    "Vertaling_3": "huilen",
+    "Vertaling_4": "liegen",
+    "Oplossing": "sterven",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å karakterisere",
+    "Vertaling_1": "ophalen",
+    "Vertaling_2": "karakteriseren",
+    "Vertaling_3": "twijfelen",
+    "Vertaling_4": "terugkomen",
+    "Oplossing": "karakteriseren",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å bøye",
+    "Vertaling_1": "scheuren",
+    "Vertaling_2": "winnen",
+    "Vertaling_3": "buigen",
+    "Vertaling_4": "dragen",
+    "Oplossing": "buigen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å bedra",
+    "Vertaling_1": "bedriegen",
+    "Vertaling_2": "rillen",
+    "Vertaling_3": "naar buiten gaan",
+    "Vertaling_4": "bedriegen",
+    "Oplossing": "bedriegen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å drømme",
+    "Vertaling_1": "dromen",
+    "Vertaling_2": "glijden",
+    "Vertaling_3": "ontvangen",
+    "Vertaling_4": "blijven",
+    "Oplossing": "dromen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å stanse",
+    "Vertaling_1": "wachten",
+    "Vertaling_2": "stoppen",
+    "Vertaling_3": "gloeien",
+    "Vertaling_4": "vasthouden",
+    "Oplossing": "stoppen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å mene",
+    "Vertaling_1": "zien",
+    "Vertaling_2": "zeggen",
+    "Vertaling_3": "betekenen",
+    "Vertaling_4": "plassen",
+    "Oplossing": "betekenen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å fortelle",
+    "Vertaling_1": "gaan",
+    "Vertaling_2": "lijken",
+    "Vertaling_3": "verzenden",
+    "Vertaling_4": "vertellen",
+    "Oplossing": "vertellen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å brekke",
+    "Vertaling_1": "breken",
+    "Vertaling_2": "snijden",
+    "Vertaling_3": "stelen",
+    "Vertaling_4": "langskomen",
+    "Oplossing": "breken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å stirre",
+    "Vertaling_1": "bedekken",
+    "Vertaling_2": "staren",
+    "Vertaling_3": "plassen",
+    "Vertaling_4": "blazen",
+    "Oplossing": "staren",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å brette",
+    "Vertaling_1": "doorbrengen",
+    "Vertaling_2": "verdwijnen",
+    "Vertaling_3": "vouwen",
+    "Vertaling_4": "vertrekken",
+    "Oplossing": "vouwen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å ønske",
+    "Vertaling_1": "branden",
+    "Vertaling_2": "vertrekken",
+    "Vertaling_3": "verwarmen",
+    "Vertaling_4": "willen",
+    "Oplossing": "willen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å tore",
+    "Vertaling_1": "durven",
+    "Vertaling_2": "wegen",
+    "Vertaling_3": "bidden",
+    "Vertaling_4": "slaan",
+    "Oplossing": "durven",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å banke",
+    "Vertaling_1": "terugkomen",
+    "Vertaling_2": "kloppen",
+    "Vertaling_3": "spreken",
+    "Vertaling_4": "optillen",
+    "Oplossing": "kloppen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å rive",
+    "Vertaling_1": "kopen",
+    "Vertaling_2": "leggen",
+    "Vertaling_3": "scheuren",
+    "Vertaling_4": "aankomen",
+    "Oplossing": "scheuren",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å gjøre",
+    "Vertaling_1": "gooien",
+    "Vertaling_2": "doen",
+    "Vertaling_3": "betekenen",
+    "Vertaling_4": "doen",
+    "Oplossing": "doen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å eie",
+    "Vertaling_1": "bezitten",
+    "Vertaling_2": "sterven",
+    "Vertaling_3": "geven",
+    "Vertaling_4": "staren",
+    "Oplossing": "bezitten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å fortsette",
+    "Vertaling_1": "struikelen",
+    "Vertaling_2": "doorgaan",
+    "Vertaling_3": "liegen",
+    "Vertaling_4": "denken",
+    "Oplossing": "doorgaan",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å kaste",
+    "Vertaling_1": "stoppen",
+    "Vertaling_2": "weten",
+    "Vertaling_3": "werpen",
+    "Vertaling_4": "plaatsvinden",
+    "Oplossing": "werpen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å forklare",
+    "Vertaling_1": "durven",
+    "Vertaling_2": "lezen",
+    "Vertaling_3": "wandelen",
+    "Vertaling_4": "uitleggen",
+    "Oplossing": "uitleggen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å tyde",
+    "Vertaling_1": "ontcijferen",
+    "Vertaling_2": "ademen",
+    "Vertaling_3": "werken",
+    "Vertaling_4": "vinden",
+    "Oplossing": "ontcijferen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å tvinge",
+    "Vertaling_1": "worstelen",
+    "Vertaling_2": "dwingen",
+    "Vertaling_3": "wakker worden",
+    "Vertaling_4": "ontdekken",
+    "Oplossing": "dwingen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å avvæpne",
+    "Vertaling_1": "liegen",
+    "Vertaling_2": "kiezen",
+    "Vertaling_3": "ontwapenen",
+    "Vertaling_4": "ophalen",
+    "Oplossing": "ontwapenen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å sende",
+    "Vertaling_1": "liggen",
+    "Vertaling_2": "glijden",
+    "Vertaling_3": "studeren",
+    "Vertaling_4": "verzenden",
+    "Oplossing": "verzenden",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å skje",
+    "Vertaling_1": "gebeuren",
+    "Vertaling_2": "delen",
+    "Vertaling_3": "rapporteren",
+    "Vertaling_4": "kloppen",
+    "Oplossing": "gebeuren",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å hvile",
+    "Vertaling_1": "gloeien",
+    "Vertaling_2": "rusten",
+    "Vertaling_3": "vertalen",
+    "Vertaling_4": "gaan",
+    "Oplossing": "rusten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å blåse",
+    "Vertaling_1": "schieten",
+    "Vertaling_2": "bezoeken",
+    "Vertaling_3": "blazen",
+    "Vertaling_4": "fotograferen",
+    "Oplossing": "blazen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å gløde",
+    "Vertaling_1": "bang zijn",
+    "Vertaling_2": "zweven",
+    "Vertaling_3": "regenen",
+    "Vertaling_4": "gloeien",
+    "Oplossing": "gloeien",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å følge",
+    "Vertaling_1": "volgen",
+    "Vertaling_2": "serveren",
+    "Vertaling_3": "breken",
+    "Vertaling_4": "slapen",
+    "Oplossing": "volgen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å føle",
+    "Vertaling_1": "fronsen",
+    "Vertaling_2": "voelen",
+    "Vertaling_3": "laten",
+    "Vertaling_4": "overwinteren",
+    "Oplossing": "voelen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å drive",
+    "Vertaling_1": "proberen",
+    "Vertaling_2": "beven",
+    "Vertaling_3": "drijven",
+    "Vertaling_4": "afschaffen",
+    "Oplossing": "drijven",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å kjøre",
+    "Vertaling_1": "herhalen",
+    "Vertaling_2": "bijten",
+    "Vertaling_3": "moeite doen",
+    "Vertaling_4": "rijden",
+    "Oplossing": "rijden",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å begynne",
+    "Vertaling_1": "beginnen",
+    "Vertaling_2": "ontdekken",
+    "Vertaling_3": "juichen",
+    "Vertaling_4": "landen",
+    "Oplossing": "beginnen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å slippe",
+    "Vertaling_1": "zijn",
+    "Vertaling_2": "laten vallen",
+    "Vertaling_3": "opgeroepen worden",
+    "Vertaling_4": "smaken",
+    "Oplossing": "laten vallen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å miste",
+    "Vertaling_1": "lenen",
+    "Vertaling_2": "verven",
+    "Vertaling_3": "verliezen",
+    "Vertaling_4": "bedanken",
+    "Oplossing": "verliezen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å handle",
+    "Vertaling_1": "hebben",
+    "Vertaling_2": "duwen",
+    "Vertaling_3": "gereedmaken",
+    "Vertaling_4": "handelen",
+    "Oplossing": "handelen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å la",
+    "Vertaling_1": "laten",
+    "Vertaling_2": "vertalen",
+    "Vertaling_3": "zijn",
+    "Vertaling_4": "hangen",
+    "Oplossing": "laten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å melde",
+    "Vertaling_1": "landen",
+    "Vertaling_2": "rapporteren",
+    "Vertaling_3": "zwijgen",
+    "Vertaling_4": "toepassen",
+    "Oplossing": "rapporteren",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å selge",
+    "Vertaling_1": "werken",
+    "Vertaling_2": "toevoegen",
+    "Vertaling_3": "verkopen",
+    "Vertaling_4": "antwoorden",
+    "Oplossing": "verkopen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å springe",
+    "Vertaling_1": "wakker worden",
+    "Vertaling_2": "voorstellen",
+    "Vertaling_3": "gebruiken",
+    "Vertaling_4": "rennen",
+    "Oplossing": "rennen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å gidde",
+    "Vertaling_1": "moeite doen",
+    "Vertaling_2": "voorstellen",
+    "Vertaling_3": "slepen",
+    "Vertaling_4": "zwaaien",
+    "Oplossing": "moeite doen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å gli",
+    "Vertaling_1": "ontvangen",
+    "Vertaling_2": "glijden",
+    "Vertaling_3": "verwelkomen",
+    "Vertaling_4": "rijden",
+    "Oplossing": "glijden",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å veie",
+    "Vertaling_1": "bezitten",
+    "Vertaling_2": "handelen",
+    "Vertaling_3": "wegen",
+    "Vertaling_4": "werken",
+    "Oplossing": "wegen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å stille",
+    "Vertaling_1": "bidden",
+    "Vertaling_2": "stilstaan",
+    "Vertaling_3": "vluchten",
+    "Vertaling_4": "stilstaan",
+    "Oplossing": "stilstaan",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å forstyrre",
+    "Vertaling_1": "storen",
+    "Vertaling_2": "halen",
+    "Vertaling_3": "langskomen",
+    "Vertaling_4": "spelen",
+    "Oplossing": "storen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å overnatte",
+    "Vertaling_1": "klagen",
+    "Vertaling_2": "overnachten",
+    "Vertaling_3": "pakken",
+    "Vertaling_4": "ademen",
+    "Oplossing": "overnachten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å sulte",
+    "Vertaling_1": "lachen",
+    "Vertaling_2": "zingen",
+    "Vertaling_3": "verhongeren",
+    "Vertaling_4": "branden",
+    "Oplossing": "verhongeren",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å greie",
+    "Vertaling_1": "zenden",
+    "Vertaling_2": "wassen",
+    "Vertaling_3": "openen",
+    "Vertaling_4": "grijpen",
+    "Oplossing": "grijpen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å kalles",
+    "Vertaling_1": "opgeroepen worden",
+    "Vertaling_2": "plaatsvinden",
+    "Vertaling_3": "houden van",
+    "Vertaling_4": "eten",
+    "Oplossing": "opgeroepen worden",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å likne",
+    "Vertaling_1": "hopen",
+    "Vertaling_2": "op lijken",
+    "Vertaling_3": "luisteren",
+    "Vertaling_4": "liggen",
+    "Oplossing": "op lijken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å gjelde",
+    "Vertaling_1": "ervaren",
+    "Vertaling_2": "bellen",
+    "Vertaling_3": "toepassen",
+    "Vertaling_4": "verwachten",
+    "Oplossing": "toepassen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å trenge",
+    "Vertaling_1": "controleren",
+    "Vertaling_2": "storen",
+    "Vertaling_3": "rillen",
+    "Vertaling_4": "nodig hebben",
+    "Oplossing": "nodig hebben",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å rekke",
+    "Vertaling_1": "bereiken",
+    "Vertaling_2": "leren",
+    "Vertaling_3": "staan",
+    "Vertaling_4": "praten",
+    "Oplossing": "bereiken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å henge",
+    "Vertaling_1": "kauwen",
+    "Vertaling_2": "hangen",
+    "Vertaling_3": "bedekken",
+    "Vertaling_4": "slikken",
+    "Oplossing": "hangen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å kjenne",
+    "Vertaling_1": "uitleggen",
+    "Vertaling_2": "verstaan",
+    "Vertaling_3": "weten",
+    "Vertaling_4": "verhongeren",
+    "Oplossing": "weten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å bruke",
+    "Vertaling_1": "draaien",
+    "Vertaling_2": "doorgaan",
+    "Vertaling_3": "dwingen",
+    "Vertaling_4": "gebruiken",
+    "Oplossing": "gebruiken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å samle",
+    "Vertaling_1": "verzamelen",
+    "Vertaling_2": "slaan",
+    "Vertaling_3": "krijgen",
+    "Vertaling_4": "overnachten",
+    "Oplossing": "verzamelen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å avbryte",
+    "Vertaling_1": "huilen",
+    "Vertaling_2": "annuleren",
+    "Vertaling_3": "gebeuren",
+    "Vertaling_4": "ontwapenen",
+    "Oplossing": "annuleren",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å interessere",
+    "Vertaling_1": "eten",
+    "Vertaling_2": "openen",
+    "Vertaling_3": "interesseren",
+    "Vertaling_4": "tonen",
+    "Oplossing": "interesseren",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å ligge",
+    "Vertaling_1": "overnachten",
+    "Vertaling_2": "leven",
+    "Vertaling_3": "lenen",
+    "Vertaling_4": "liggen",
+    "Oplossing": "liggen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å treffe",
+    "Vertaling_1": "treffen",
+    "Vertaling_2": "eisen",
+    "Vertaling_3": "vinden",
+    "Vertaling_4": "winnen",
+    "Oplossing": "treffen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å forstå",
+    "Vertaling_1": "dromen",
+    "Vertaling_2": "begrijpen",
+    "Vertaling_3": "willen",
+    "Vertaling_4": "wakker worden",
+    "Oplossing": "begrijpen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å finnes",
+    "Vertaling_1": "drinken",
+    "Vertaling_2": "buigen",
+    "Vertaling_3": "vinden",
+    "Vertaling_4": "rollen",
+    "Oplossing": "vinden",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å tenke",
+    "Vertaling_1": "leggen",
+    "Vertaling_2": "brengen",
+    "Vertaling_3": "vergeten",
+    "Vertaling_4": "denken",
+    "Oplossing": "denken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å si",
+    "Vertaling_1": "zeggen",
+    "Vertaling_2": "staren",
+    "Vertaling_3": "schrijven",
+    "Vertaling_4": "betalen",
+    "Oplossing": "zeggen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å øke",
+    "Vertaling_1": "vragen",
+    "Vertaling_2": "verhogen",
+    "Vertaling_3": "rijden",
+    "Vertaling_4": "herhalen",
+    "Oplossing": "verhogen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å binde",
+    "Vertaling_1": "doorgaan",
+    "Vertaling_2": "besluiten",
+    "Vertaling_3": "binden",
+    "Vertaling_4": "moeten",
+    "Oplossing": "binden",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å lete",
+    "Vertaling_1": "gebruiken",
+    "Vertaling_2": "aanvaarden",
+    "Vertaling_3": "opgeroepen worden",
+    "Vertaling_4": "zoeken",
+    "Oplossing": "zoeken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å lage",
+    "Vertaling_1": "maken",
+    "Vertaling_2": "gedijen",
+    "Vertaling_3": "invoeren",
+    "Vertaling_4": "regelen",
+    "Oplossing": "maken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å bite",
+    "Vertaling_1": "verwarmen",
+    "Vertaling_2": "bijten",
+    "Vertaling_3": "samenwerken",
+    "Vertaling_4": "ervaren",
+    "Oplossing": "bijten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å le",
+    "Vertaling_1": "invoeren",
+    "Vertaling_2": "optillen",
+    "Vertaling_3": "lachen",
+    "Vertaling_4": "schrijven",
+    "Oplossing": "lachen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å hente",
+    "Vertaling_1": "kloppen",
+    "Vertaling_2": "laten zien",
+    "Vertaling_3": "snijden",
+    "Vertaling_4": "halen",
+    "Oplossing": "halen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å vente",
+    "Vertaling_1": "wachten",
+    "Vertaling_2": "trainen",
+    "Vertaling_3": "vasthouden",
+    "Vertaling_4": "durven",
+    "Oplossing": "wachten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å håpe",
+    "Vertaling_1": "plaatsen",
+    "Vertaling_2": "hopen",
+    "Vertaling_3": "kosten",
+    "Vertaling_4": "controleren",
+    "Oplossing": "hopen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å møte",
+    "Vertaling_1": "opvullen",
+    "Vertaling_2": "verkopen",
+    "Vertaling_3": "ontmoeten",
+    "Vertaling_4": "glijden",
+    "Oplossing": "ontmoeten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å hjelpe",
+    "Vertaling_1": "lijken",
+    "Vertaling_2": "herhalen",
+    "Vertaling_3": "geloven",
+    "Vertaling_4": "helpen",
+    "Oplossing": "helpen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å elske",
+    "Vertaling_1": "houden van",
+    "Vertaling_2": "tonen",
+    "Vertaling_3": "noemen",
+    "Vertaling_4": "reizen",
+    "Oplossing": "houden van",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å bringe",
+    "Vertaling_1": "antwoorden",
+    "Vertaling_2": "brengen",
+    "Vertaling_3": "afvallen",
+    "Vertaling_4": "binden",
+    "Oplossing": "brengen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å stoppe",
+    "Vertaling_1": "verwachten",
+    "Vertaling_2": "controleren",
+    "Vertaling_3": "stoppen",
+    "Vertaling_4": "zenden",
+    "Oplossing": "stoppen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å drikke",
+    "Vertaling_1": "schrijven",
+    "Vertaling_2": "stralen",
+    "Vertaling_3": "verhogen",
+    "Vertaling_4": "drinken",
+    "Oplossing": "drinken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å ville",
+    "Vertaling_1": "willen",
+    "Vertaling_2": "krijgen",
+    "Vertaling_3": "drijven",
+    "Vertaling_4": "zwijgen",
+    "Oplossing": "willen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å arbeide",
+    "Vertaling_1": "wassen",
+    "Vertaling_2": "werken",
+    "Vertaling_3": "vastpakken",
+    "Vertaling_4": "karakteriseren",
+    "Oplossing": "werken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å beite/beitte",
+    "Vertaling_1": "brengen",
+    "Vertaling_2": "beloven",
+    "Vertaling_3": "grazen",
+    "Vertaling_4": "doen",
+    "Oplossing": "grazen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å skrive",
+    "Vertaling_1": "zweven",
+    "Vertaling_2": "wandelen",
+    "Vertaling_3": "afvallen",
+    "Vertaling_4": "schrijven",
+    "Oplossing": "schrijven",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å våkne",
+    "Vertaling_1": "wakker worden",
+    "Vertaling_2": "verven",
+    "Vertaling_3": "zetten",
+    "Vertaling_4": "beginnen",
+    "Oplossing": "wakker worden",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å lande",
+    "Vertaling_1": "bedanken",
+    "Vertaling_2": "landen",
+    "Vertaling_3": "reizen",
+    "Vertaling_4": "plaatsen",
+    "Oplossing": "landen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å flykte",
+    "Vertaling_1": "verliezen",
+    "Vertaling_2": "zwaaien",
+    "Vertaling_3": "vluchten",
+    "Vertaling_4": "vallen",
+    "Oplossing": "vluchten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å trives",
+    "Vertaling_1": "gebeuren",
+    "Vertaling_2": "vervoeren",
+    "Vertaling_3": "beven",
+    "Vertaling_4": "gedijen",
+    "Oplossing": "gedijen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å sveve",
+    "Vertaling_1": "zweven",
+    "Vertaling_2": "pakken",
+    "Vertaling_3": "aankomen",
+    "Vertaling_4": "stralen",
+    "Oplossing": "zweven",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å ta",
+    "Vertaling_1": "nodig hebben",
+    "Vertaling_2": "nemen",
+    "Vertaling_3": "hebben",
+    "Vertaling_4": "lijken",
+    "Oplossing": "nemen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å få",
+    "Vertaling_1": "regenen",
+    "Vertaling_2": "springen",
+    "Vertaling_3": "krijgen",
+    "Vertaling_4": "wenen",
+    "Oplossing": "krijgen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å høre",
+    "Vertaling_1": "tellen",
+    "Vertaling_2": "studeren",
+    "Vertaling_3": "rennen",
+    "Vertaling_4": "horen",
+    "Oplossing": "horen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å burde",
+    "Vertaling_1": "moeten",
+    "Vertaling_2": "willen",
+    "Vertaling_3": "ophalen",
+    "Vertaling_4": "rusten",
+    "Oplossing": "moeten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å peke",
+    "Vertaling_1": "grijpen",
+    "Vertaling_2": "wijzen",
+    "Vertaling_3": "op lijken",
+    "Vertaling_4": "beloven",
+    "Oplossing": "wijzen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å rope",
+    "Vertaling_1": "plooien",
+    "Vertaling_2": "branden",
+    "Vertaling_3": "schreeuwen",
+    "Vertaling_4": "zingen",
+    "Oplossing": "schreeuwen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å spise",
+    "Vertaling_1": "rusten",
+    "Vertaling_2": "tonen",
+    "Vertaling_3": "sturen",
+    "Vertaling_4": "eten",
+    "Oplossing": "eten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å riste",
+    "Vertaling_1": "schudden",
+    "Vertaling_2": "vertrekken",
+    "Vertaling_3": "verwarmen",
+    "Vertaling_4": "verwelkomen",
+    "Oplossing": "schudden",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å tro",
+    "Vertaling_1": "lezen",
+    "Vertaling_2": "geloven",
+    "Vertaling_3": "rollen",
+    "Vertaling_4": "laten",
+    "Oplossing": "geloven",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å tygge",
+    "Vertaling_1": "sluiten",
+    "Vertaling_2": "kijken",
+    "Vertaling_3": "kauwen",
+    "Vertaling_4": "onthouden",
+    "Oplossing": "kauwen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å bestemme",
+    "Vertaling_1": "afvallen",
+    "Vertaling_2": "verzenden",
+    "Vertaling_3": "pakken",
+    "Vertaling_4": "beslissen",
+    "Oplossing": "beslissen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å klage",
+    "Vertaling_1": "klagen",
+    "Vertaling_2": "stelen",
+    "Vertaling_3": "zenden",
+    "Vertaling_4": "zijn",
+    "Oplossing": "klagen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å samarbeide",
+    "Vertaling_1": "sturen",
+    "Vertaling_2": "samenwerken",
+    "Vertaling_3": "interesseren",
+    "Vertaling_4": "bidden",
+    "Oplossing": "samenwerken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å lære",
+    "Vertaling_1": "zingen",
+    "Vertaling_2": "moeten",
+    "Vertaling_3": "leren",
+    "Vertaling_4": "lezen",
+    "Oplossing": "leren",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å virke",
+    "Vertaling_1": "smaken",
+    "Vertaling_2": "eten",
+    "Vertaling_3": "drijven",
+    "Vertaling_4": "lijken",
+    "Oplossing": "lijken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å snakke",
+    "Vertaling_1": "spreken",
+    "Vertaling_2": "regelen",
+    "Vertaling_3": "gereedmaken",
+    "Vertaling_4": "vouwen",
+    "Oplossing": "spreken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å søke",
+    "Vertaling_1": "verwelkomen",
+    "Vertaling_2": "zoeken",
+    "Vertaling_3": "verliezen",
+    "Vertaling_4": "doden",
+    "Oplossing": "zoeken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å regne",
+    "Vertaling_1": "beloven",
+    "Vertaling_2": "grijpen",
+    "Vertaling_3": "regenen",
+    "Vertaling_4": "houden",
+    "Oplossing": "regenen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å gripe",
+    "Vertaling_1": "wegnemen",
+    "Vertaling_2": "spelen",
+    "Vertaling_3": "kijken",
+    "Vertaling_4": "vastpakken",
+    "Oplossing": "vastpakken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å hende",
+    "Vertaling_1": "gebeuren",
+    "Vertaling_2": "laten vallen",
+    "Vertaling_3": "halen",
+    "Vertaling_4": "plakken",
+    "Oplossing": "gebeuren",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å løse",
+    "Vertaling_1": "kosten",
+    "Vertaling_2": "oplossen",
+    "Vertaling_3": "wachten",
+    "Vertaling_4": "verzamelen",
+    "Oplossing": "oplossen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å ha",
+    "Vertaling_1": "werken",
+    "Vertaling_2": "geloven",
+    "Vertaling_3": "hebben",
+    "Vertaling_4": "herkennen",
+    "Oplossing": "hebben",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å spille",
+    "Vertaling_1": "hangen",
+    "Vertaling_2": "liggen",
+    "Vertaling_3": "beslissen",
+    "Vertaling_4": "spelen",
+    "Oplossing": "spelen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å ringe",
+    "Vertaling_1": "bellen",
+    "Vertaling_2": "doen",
+    "Vertaling_3": "roepen",
+    "Vertaling_4": "lachen",
+    "Oplossing": "roepen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å sjekke",
+    "Vertaling_1": "zetten",
+    "Vertaling_2": "controleren",
+    "Vertaling_3": "eindigen",
+    "Vertaling_4": "bezoeken",
+    "Oplossing": "controleren",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å overraske",
+    "Vertaling_1": "karakteriseren",
+    "Vertaling_2": "vermoeden",
+    "Vertaling_3": "verrassen",
+    "Vertaling_4": "ontvangen",
+    "Oplossing": "verrassen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å lese",
+    "Vertaling_1": "vouwen",
+    "Vertaling_2": "teruggeven",
+    "Vertaling_3": "schreeuwen",
+    "Vertaling_4": "lezen",
+    "Oplossing": "lezen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å slite",
+    "Vertaling_1": "worstelen",
+    "Vertaling_2": "binnengaan",
+    "Vertaling_3": "karakteriseren",
+    "Vertaling_4": "horen",
+    "Oplossing": "worstelen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å være",
+    "Vertaling_1": "bewegen",
+    "Vertaling_2": "zijn",
+    "Vertaling_3": "verhongeren",
+    "Vertaling_4": "verrassen",
+    "Oplossing": "zijn",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å se",
+    "Vertaling_1": "kiezen",
+    "Vertaling_2": "bereiken",
+    "Vertaling_3": "zien",
+    "Vertaling_4": "fluiten",
+    "Oplossing": "zien",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å skulle",
+    "Vertaling_1": "studeren",
+    "Vertaling_2": "sluiten",
+    "Vertaling_3": "twijfelen",
+    "Vertaling_4": "zijn",
+    "Oplossing": "zijn",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å like",
+    "Vertaling_1": "leuk vinden",
+    "Vertaling_2": "ontcijferen",
+    "Vertaling_3": "vliegen",
+    "Vertaling_4": "babbelen",
+    "Oplossing": "leuk vinden",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å overvintre",
+    "Vertaling_1": "maken",
+    "Vertaling_2": "overwinteren",
+    "Vertaling_3": "hopen",
+    "Vertaling_4": "slepen",
+    "Oplossing": "overwinteren",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å studere",
+    "Vertaling_1": "vervoeren",
+    "Vertaling_2": "naar buiten gaan",
+    "Vertaling_3": "studeren",
+    "Vertaling_4": "lopen",
+    "Oplossing": "studeren",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å vende",
+    "Vertaling_1": "toegeven",
+    "Vertaling_2": "scheuren",
+    "Vertaling_3": "spreken",
+    "Vertaling_4": "draaien",
+    "Oplossing": "draaien",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å prøve",
+    "Vertaling_1": "proberen",
+    "Vertaling_2": "verrassen",
+    "Vertaling_3": "proberen",
+    "Vertaling_4": "invoeren",
+    "Oplossing": "proberen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å gå",
+    "Vertaling_1": "breken",
+    "Vertaling_2": "gaan",
+    "Vertaling_3": "wegen",
+    "Vertaling_4": "zetten",
+    "Oplossing": "gaan",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å ete",
+    "Vertaling_1": "fluisteren",
+    "Vertaling_2": "schieten",
+    "Vertaling_3": "eten",
+    "Vertaling_4": "zeggen",
+    "Oplossing": "eten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å sitte",
+    "Vertaling_1": "prefereren",
+    "Vertaling_2": "toepassen",
+    "Vertaling_3": "scheuren",
+    "Vertaling_4": "zitten",
+    "Oplossing": "zitten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å bo",
+    "Vertaling_1": "wonen",
+    "Vertaling_2": "babbelen",
+    "Vertaling_3": "smaken",
+    "Vertaling_4": "vastpakken",
+    "Oplossing": "wonen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å bety",
+    "Vertaling_1": "herkennen",
+    "Vertaling_2": "betekenen",
+    "Vertaling_3": "blazen",
+    "Vertaling_4": "houden van",
+    "Oplossing": "betekenen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å utføre",
+    "Vertaling_1": "opgeroepen worden",
+    "Vertaling_2": "bedriegen",
+    "Vertaling_3": "uitvoeren",
+    "Vertaling_4": "buigen",
+    "Oplossing": "uitvoeren",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å sette",
+    "Vertaling_1": "toevoegen",
+    "Vertaling_2": "hangen",
+    "Vertaling_3": "vertellen",
+    "Vertaling_4": "zetten",
+    "Oplossing": "zetten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å kjøpe",
+    "Vertaling_1": "kopen",
+    "Vertaling_2": "helpen",
+    "Vertaling_3": "herkennen",
+    "Vertaling_4": "gebeuren",
+    "Oplossing": "kopen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å skyve",
+    "Vertaling_1": "gereedmaken",
+    "Vertaling_2": "duwen",
+    "Vertaling_3": "struikelen",
+    "Vertaling_4": "kosten",
+    "Oplossing": "duwen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å spørre",
+    "Vertaling_1": "nemen",
+    "Vertaling_2": "opstijgen",
+    "Vertaling_3": "vragen",
+    "Vertaling_4": "vliegen",
+    "Oplossing": "vragen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å slå",
+    "Vertaling_1": "moeten",
+    "Vertaling_2": "leuk vinden",
+    "Vertaling_3": "zweven",
+    "Vertaling_4": "slaan",
+    "Oplossing": "slaan",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å falle",
+    "Vertaling_1": "vallen",
+    "Vertaling_2": "plakken",
+    "Vertaling_3": "kunnen",
+    "Vertaling_4": "voelen",
+    "Oplossing": "vallen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å dreie",
+    "Vertaling_1": "uitvoeren",
+    "Vertaling_2": "draaien",
+    "Vertaling_3": "toegeven",
+    "Vertaling_4": "krijgen",
+    "Oplossing": "draaien",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å arrangere",
+    "Vertaling_1": "wenen",
+    "Vertaling_2": "klagen",
+    "Vertaling_3": "regelen",
+    "Vertaling_4": "laten vallen",
+    "Oplossing": "regelen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å måtte",
+    "Vertaling_1": "bereiken",
+    "Vertaling_2": "draaien",
+    "Vertaling_3": "breken",
+    "Vertaling_4": "moeten",
+    "Oplossing": "moeten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å låse",
+    "Vertaling_1": "afsluiten",
+    "Vertaling_2": "doden",
+    "Vertaling_3": "vouwen",
+    "Vertaling_4": "kunnen",
+    "Oplossing": "afsluiten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å drepe",
+    "Vertaling_1": "roepen",
+    "Vertaling_2": "druipen",
+    "Vertaling_3": "doden",
+    "Vertaling_4": "verven",
+    "Oplossing": "doden",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å koste",
+    "Vertaling_1": "verkopen",
+    "Vertaling_2": "fietsen",
+    "Vertaling_3": "kosten",
+    "Vertaling_4": "delen",
+    "Oplossing": "kosten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å løpe",
+    "Vertaling_1": "laten",
+    "Vertaling_2": "annuleren",
+    "Vertaling_3": "opstijgen",
+    "Vertaling_4": "rennen",
+    "Oplossing": "rennen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å bli",
+    "Vertaling_1": "blijven",
+    "Vertaling_2": "starten",
+    "Vertaling_3": "lachen",
+    "Vertaling_4": "stelen",
+    "Oplossing": "blijven",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å gjenta",
+    "Vertaling_1": "langskomen",
+    "Vertaling_2": "herhalen",
+    "Vertaling_3": "plooien",
+    "Vertaling_4": "vragen",
+    "Oplossing": "herhalen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å ende",
+    "Vertaling_1": "storen",
+    "Vertaling_2": "slapen",
+    "Vertaling_3": "eindigen",
+    "Vertaling_4": "voorstellen",
+    "Oplossing": "eindigen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å løfte",
+    "Vertaling_1": "annuleren",
+    "Vertaling_2": "ontdekken",
+    "Vertaling_3": "oplossen",
+    "Vertaling_4": "optillen",
+    "Oplossing": "optillen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å stjele",
+    "Vertaling_1": "stelen",
+    "Vertaling_2": "duwen",
+    "Vertaling_3": "zitten",
+    "Vertaling_4": "wachten",
+    "Oplossing": "stelen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å velge",
+    "Vertaling_1": "onthouden",
+    "Vertaling_2": "kiezen",
+    "Vertaling_3": "vergeten",
+    "Vertaling_4": "binnengaan",
+    "Oplossing": "kiezen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å svinge",
+    "Vertaling_1": "verhogen",
+    "Vertaling_2": "beginnen",
+    "Vertaling_3": "zwaaien",
+    "Vertaling_4": "grijpen",
+    "Oplossing": "zwaaien",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å danse",
+    "Vertaling_1": "wijzen",
+    "Vertaling_2": "vragen",
+    "Vertaling_3": "handelen",
+    "Vertaling_4": "dansen",
+    "Oplossing": "dansen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å finne",
+    "Vertaling_1": "vinden",
+    "Vertaling_2": "dragen",
+    "Vertaling_3": "fotograferen",
+    "Vertaling_4": "bijten",
+    "Oplossing": "vinden",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å plystre",
+    "Vertaling_1": "noemen",
+    "Vertaling_2": "fluiten",
+    "Vertaling_3": "stoppen",
+    "Vertaling_4": "hopen",
+    "Oplossing": "fluiten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å leke",
+    "Vertaling_1": "buigen",
+    "Vertaling_2": "binnengaan",
+    "Vertaling_3": "spelen",
+    "Vertaling_4": "uitvoeren",
+    "Oplossing": "spelen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å foregå",
+    "Vertaling_1": "slikken",
+    "Vertaling_2": "maken",
+    "Vertaling_3": "klagen",
+    "Vertaling_4": "plaatsvinden",
+    "Oplossing": "plaatsvinden",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å synge",
+    "Vertaling_1": "zingen",
+    "Vertaling_2": "luisteren",
+    "Vertaling_3": "worstelen",
+    "Vertaling_4": "volgen",
+    "Oplossing": "zingen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å åpne",
+    "Vertaling_1": "aankomen",
+    "Vertaling_2": "openen",
+    "Vertaling_3": "laden",
+    "Vertaling_4": "toevoegen",
+    "Oplossing": "openen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å vise",
+    "Vertaling_1": "optillen",
+    "Vertaling_2": "zien",
+    "Vertaling_3": "tonen",
+    "Vertaling_4": "eindigen",
+    "Oplossing": "tonen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å foretrekke",
+    "Vertaling_1": "juichen",
+    "Vertaling_2": "plaatsen",
+    "Vertaling_3": "leuk vinden",
+    "Vertaling_4": "prefereren",
+    "Oplossing": "prefereren",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å skinne",
+    "Vertaling_1": "stralen",
+    "Vertaling_2": "volgen",
+    "Vertaling_3": "leren",
+    "Vertaling_4": "starten",
+    "Oplossing": "stralen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å gråte",
+    "Vertaling_1": "houden",
+    "Vertaling_2": "huilen",
+    "Vertaling_3": "gebruiken",
+    "Vertaling_4": "zien",
+    "Oplossing": "huilen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å rynke",
+    "Vertaling_1": "dalen",
+    "Vertaling_2": "bedanken",
+    "Vertaling_3": "fronsen",
+    "Vertaling_4": "uitleggen",
+    "Oplossing": "fronsen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å dekke",
+    "Vertaling_1": "teruggeven",
+    "Vertaling_2": "regelen",
+    "Vertaling_3": "klimmen",
+    "Vertaling_4": "bedekken",
+    "Oplossing": "bedekken",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å dele",
+    "Vertaling_1": "delen",
+    "Vertaling_2": "werpen",
+    "Vertaling_3": "dragen",
+    "Vertaling_4": "prefereren",
+    "Oplossing": "delen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å hete",
+    "Vertaling_1": "winnen",
+    "Vertaling_2": "verwarmen",
+    "Vertaling_3": "oplossen",
+    "Vertaling_4": "kiezen",
+    "Oplossing": "verwarmen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å skytte",
+    "Vertaling_1": "zeggen",
+    "Vertaling_2": "kopen",
+    "Vertaling_3": "schieten",
+    "Vertaling_4": "opvullen",
+    "Oplossing": "schieten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å ta",
+    "Vertaling_1": "rollen",
+    "Vertaling_2": "voelen",
+    "Vertaling_3": "serveren",
+    "Vertaling_4": "nemen",
+    "Oplossing": "nemen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å fotografere",
+    "Vertaling_1": "fotograferen",
+    "Vertaling_2": "beginnen",
+    "Vertaling_3": "gaan",
+    "Vertaling_4": "wegnemen",
+    "Oplossing": "fotograferen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å mistenke",
+    "Vertaling_1": "handelen",
+    "Vertaling_2": "vermoeden",
+    "Vertaling_3": "dwingen",
+    "Vertaling_4": "teruggeven",
+    "Oplossing": "vermoeden",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å vinne",
+    "Vertaling_1": "plassen",
+    "Vertaling_2": "verlossen",
+    "Vertaling_3": "winnen",
+    "Vertaling_4": "annuleren",
+    "Oplossing": "winnen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å legge",
+    "Vertaling_1": "binden",
+    "Vertaling_2": "begrijpen",
+    "Vertaling_3": "weten",
+    "Vertaling_4": "leggen",
+    "Oplossing": "leggen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å forsvinne",
+    "Vertaling_1": "verdwijnen",
+    "Vertaling_2": "bellen",
+    "Vertaling_3": "binden",
+    "Vertaling_4": "laden",
+    "Oplossing": "verdwijnen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å leve",
+    "Vertaling_1": "grazen",
+    "Vertaling_2": "leven",
+    "Vertaling_3": "overwinteren",
+    "Vertaling_4": "gedijen",
+    "Oplossing": "leven",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å ta av",
+    "Vertaling_1": "spreken",
+    "Vertaling_2": "slikken",
+    "Vertaling_3": "opstijgen",
+    "Vertaling_4": "duwen",
+    "Oplossing": "opstijgen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å puste",
+    "Vertaling_1": "toepassen",
+    "Vertaling_2": "delen",
+    "Vertaling_3": "hebben",
+    "Vertaling_4": "ademen",
+    "Oplossing": "ademen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å be",
+    "Vertaling_1": "bidden",
+    "Vertaling_2": "opstijgen",
+    "Vertaling_3": "verhogen",
+    "Vertaling_4": "luisteren",
+    "Oplossing": "bidden",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å fly(ge)",
+    "Vertaling_1": "schreeuwen",
+    "Vertaling_2": "vliegen",
+    "Vertaling_3": "vertellen",
+    "Vertaling_4": "plooien",
+    "Oplossing": "vliegen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å kunne",
+    "Vertaling_1": "vasthouden",
+    "Vertaling_2": "ontmoeten",
+    "Vertaling_3": "kunnen",
+    "Vertaling_4": "samenwerken",
+    "Oplossing": "kunnen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å dra",
+    "Vertaling_1": "wandelen",
+    "Vertaling_2": "denken",
+    "Vertaling_3": "willen",
+    "Vertaling_4": "slepen",
+    "Oplossing": "slepen",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å oppleve",
+    "Vertaling_1": "ervaren",
+    "Vertaling_2": "zwijgen",
+    "Vertaling_3": "tellen",
+    "Vertaling_4": "worstelen",
+    "Oplossing": "ervaren",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "å vite",
+    "Vertaling_1": "verzenden",
+    "Vertaling_2": "weten",
+    "Vertaling_3": "betekenen",
+    "Vertaling_4": "vermoeden",
+    "Oplossing": "weten",
+    "Type": "WERKWOORD"
+  },
+  {
+    "Woord": "blekksprut",
+    "Vertaling_1": "inktvis",
+    "Vertaling_2": "boommarter",
+    "Vertaling_3": "dolfijn",
+    "Vertaling_4": "chimpansee",
+    "Oplossing": "inktvis",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "øyestikker",
+    "Vertaling_1": "hyena",
+    "Vertaling_2": "baars",
+    "Vertaling_3": "libelle",
+    "Vertaling_4": "buidelrat",
+    "Oplossing": "libelle",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "fisk",
+    "Vertaling_1": "vis",
+    "Vertaling_2": "bij",
+    "Vertaling_3": "bulldog",
+    "Vertaling_4": "gans",
+    "Oplossing": "vis",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "skjell",
+    "Vertaling_1": "pauw",
+    "Vertaling_2": "ooievaar",
+    "Vertaling_3": "reebok",
+    "Vertaling_4": "zeeschelp",
+    "Oplossing": "zeeschelp",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "geit",
+    "Vertaling_1": "wezel",
+    "Vertaling_2": "geit",
+    "Vertaling_3": "gans",
+    "Vertaling_4": "bever",
+    "Oplossing": "geit",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "kråke",
+    "Vertaling_1": "vlinder",
+    "Vertaling_2": "specht",
+    "Vertaling_3": "kraai",
+    "Vertaling_4": "koolmees",
+    "Oplossing": "kraai",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "kylling",
+    "Vertaling_1": "spin",
+    "Vertaling_2": "sprinkhaan",
+    "Vertaling_3": "kuiken",
+    "Vertaling_4": "grizzlybeer",
+    "Oplossing": "kuiken",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "løve",
+    "Vertaling_1": "kraanvogel",
+    "Vertaling_2": "ooievaar",
+    "Vertaling_3": "leeuw",
+    "Vertaling_4": "jaguar",
+    "Oplossing": "leeuw",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "sjøhest",
+    "Vertaling_1": "worm",
+    "Vertaling_2": "jak",
+    "Vertaling_3": "nautilus",
+    "Vertaling_4": "zeepaard",
+    "Oplossing": "zeepaard",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "krokodille",
+    "Vertaling_1": "leguaan",
+    "Vertaling_2": "adder",
+    "Vertaling_3": "krokodil",
+    "Vertaling_4": "bizon",
+    "Oplossing": "krokodil",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "bille",
+    "Vertaling_1": "kever",
+    "Vertaling_2": "meerval",
+    "Vertaling_3": "eland",
+    "Vertaling_4": "impala",
+    "Oplossing": "kever",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "føll",
+    "Vertaling_1": "veulen",
+    "Vertaling_2": "papegaai",
+    "Vertaling_3": "olifant",
+    "Vertaling_4": "luiaard",
+    "Oplossing": "veulen",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "hakespett",
+    "Vertaling_1": "karper",
+    "Vertaling_2": "specht",
+    "Vertaling_3": "baviaan",
+    "Vertaling_4": "varken",
+    "Oplossing": "specht",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "struts",
+    "Vertaling_1": "wombat",
+    "Vertaling_2": "salamander",
+    "Vertaling_3": "neushoorn",
+    "Vertaling_4": "struisvogel",
+    "Oplossing": "struisvogel",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "dyr",
+    "Vertaling_1": "dier",
+    "Vertaling_2": "bosuil",
+    "Vertaling_3": "orka",
+    "Vertaling_4": "iguana",
+    "Oplossing": "dier",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "elg",
+    "Vertaling_1": "elend",
+    "Vertaling_2": "hond",
+    "Vertaling_3": "das",
+    "Vertaling_4": "marmot",
+    "Oplossing": "elend",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "katt",
+    "Vertaling_1": "wombat",
+    "Vertaling_2": "kat",
+    "Vertaling_3": "stinkdier",
+    "Vertaling_4": "boomkikker",
+    "Oplossing": "kat",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "svane",
+    "Vertaling_1": "bosuil",
+    "Vertaling_2": "orka",
+    "Vertaling_3": "iguana",
+    "Vertaling_4": "zwaan",
+    "Oplossing": "zwaan",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "flodhest",
+    "Vertaling_1": "nijlpaard",
+    "Vertaling_2": "kaketoe",
+    "Vertaling_3": "aap",
+    "Vertaling_4": "jak",
+    "Oplossing": "nijlpaard",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "papegøye",
+    "Vertaling_1": "struisvogel",
+    "Vertaling_2": "leeuw",
+    "Vertaling_3": "papegaai",
+    "Vertaling_4": "papegaai",
+    "Oplossing": "papegaai",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "ørn",
+    "Vertaling_1": "adelaar",
+    "Vertaling_2": "otter",
+    "Vertaling_3": "adelaar",
+    "Vertaling_4": "wesp",
+    "Oplossing": "adelaar",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "hjort",
+    "Vertaling_1": "kangoeroe",
+    "Vertaling_2": "hert",
+    "Vertaling_3": "papegaai",
+    "Vertaling_4": "bij",
+    "Oplossing": "hert",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "ekorn",
+    "Vertaling_1": "eekhorn",
+    "Vertaling_2": "hamster",
+    "Vertaling_3": "cavia",
+    "Vertaling_4": "otter",
+    "Oplossing": "eekhorn",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "delfin",
+    "Vertaling_1": "dolfijn",
+    "Vertaling_2": "alpaca",
+    "Vertaling_3": "boomkikker",
+    "Vertaling_4": "panda",
+    "Oplossing": "dolfijn",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "orm",
+    "Vertaling_1": "koe",
+    "Vertaling_2": "orka",
+    "Vertaling_3": "worm",
+    "Vertaling_4": "giraffe",
+    "Oplossing": "worm",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "hest",
+    "Vertaling_1": "worm",
+    "Vertaling_2": "paard",
+    "Vertaling_3": "gorilla",
+    "Vertaling_4": "bulldog",
+    "Oplossing": "paard",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "neshorn",
+    "Vertaling_1": "pelikaan",
+    "Vertaling_2": "chimpansee",
+    "Vertaling_3": "neushoorn",
+    "Vertaling_4": "tijger",
+    "Oplossing": "neushoorn",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "gaupe",
+    "Vertaling_1": "vis",
+    "Vertaling_2": "lynx",
+    "Vertaling_3": "gnoe",
+    "Vertaling_4": "impala",
+    "Oplossing": "lynx",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "veps",
+    "Vertaling_1": "kameleon",
+    "Vertaling_2": "muis",
+    "Vertaling_3": "bizon",
+    "Vertaling_4": "wesp",
+    "Oplossing": "wesp",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "sebra",
+    "Vertaling_1": "egel",
+    "Vertaling_2": "das",
+    "Vertaling_3": "cavia",
+    "Vertaling_4": "zebra",
+    "Oplossing": "zebra",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "rotte",
+    "Vertaling_1": "boommarter",
+    "Vertaling_2": "specht",
+    "Vertaling_3": "slang",
+    "Vertaling_4": "rat",
+    "Oplossing": "rat",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "mus",
+    "Vertaling_1": "fuut",
+    "Vertaling_2": "salamander",
+    "Vertaling_3": "muis",
+    "Vertaling_4": "vleermuis",
+    "Oplossing": "muis",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "hai",
+    "Vertaling_1": "boommarter",
+    "Vertaling_2": "haai",
+    "Vertaling_3": "havik",
+    "Vertaling_4": "eland",
+    "Oplossing": "haai",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "hane",
+    "Vertaling_1": "egel",
+    "Vertaling_2": "haan",
+    "Vertaling_3": "kameleon",
+    "Vertaling_4": "ibis",
+    "Oplossing": "haan",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "bjørn",
+    "Vertaling_1": "beer",
+    "Vertaling_2": "bosmarmot",
+    "Vertaling_3": "krokodil",
+    "Vertaling_4": "eekhoorn",
+    "Oplossing": "beer",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "lam",
+    "Vertaling_1": "zeekoe",
+    "Vertaling_2": "jak",
+    "Vertaling_3": "lam",
+    "Vertaling_4": "hond",
+    "Oplossing": "lam",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "krabbe",
+    "Vertaling_1": "olifant",
+    "Vertaling_2": "veldmuis",
+    "Vertaling_3": "krab",
+    "Vertaling_4": "marmot",
+    "Oplossing": "krab",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "hval",
+    "Vertaling_1": "konijn",
+    "Vertaling_2": "walvis",
+    "Vertaling_3": "mier",
+    "Vertaling_4": "reiger",
+    "Oplossing": "walvis",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "gås",
+    "Vertaling_1": "struisvogel",
+    "Vertaling_2": "gans",
+    "Vertaling_3": "aap",
+    "Vertaling_4": "zeemeeuw",
+    "Oplossing": "gans",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "kanin",
+    "Vertaling_1": "kraai",
+    "Vertaling_2": "konijn",
+    "Vertaling_3": "paard",
+    "Vertaling_4": "schildpad",
+    "Oplossing": "konijn",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "gullvisk",
+    "Vertaling_1": "kaketoe",
+    "Vertaling_2": "goudvis",
+    "Vertaling_3": "zeehond",
+    "Vertaling_4": "orang-oetan",
+    "Oplossing": "goudvis",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "spurv",
+    "Vertaling_1": "kip",
+    "Vertaling_2": "haai",
+    "Vertaling_3": "zebra",
+    "Vertaling_4": "mus",
+    "Oplossing": "mus",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "sommerfugl",
+    "Vertaling_1": "konijn",
+    "Vertaling_2": "mol",
+    "Vertaling_3": "libelle",
+    "Vertaling_4": "vlinder",
+    "Oplossing": "vlinder",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "slange",
+    "Vertaling_1": "boa",
+    "Vertaling_2": "bijeneter",
+    "Vertaling_3": "dolfijn",
+    "Vertaling_4": "slang",
+    "Oplossing": "slang",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "sau",
+    "Vertaling_1": "karper",
+    "Vertaling_2": "adder",
+    "Vertaling_3": "iguana",
+    "Vertaling_4": "schaap",
+    "Oplossing": "schaap",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "høne",
+    "Vertaling_1": "pauw",
+    "Vertaling_2": "kip",
+    "Vertaling_3": "lieveheerbeest",
+    "Vertaling_4": "pingüin",
+    "Oplossing": "kip",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "måke",
+    "Vertaling_1": "paradijsvogel",
+    "Vertaling_2": "bijeneter",
+    "Vertaling_3": "meeuw",
+    "Vertaling_4": "krokodil",
+    "Oplossing": "meeuw",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "bie",
+    "Vertaling_1": "bij",
+    "Vertaling_2": "haai",
+    "Vertaling_3": "inktvis",
+    "Vertaling_4": "miereneter",
+    "Oplossing": "bij",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "gresshoppe",
+    "Vertaling_1": "alpaca",
+    "Vertaling_2": "sprinkhaan",
+    "Vertaling_3": "wasbeer",
+    "Vertaling_4": "koekoek",
+    "Oplossing": "sprinkhaan",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "låve",
+    "Vertaling_1": "bosuil",
+    "Vertaling_2": "torenvalk",
+    "Vertaling_3": "schuur",
+    "Vertaling_4": "vos",
+    "Oplossing": "schuur",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "hund",
+    "Vertaling_1": "boa",
+    "Vertaling_2": "hond",
+    "Vertaling_3": "walrus",
+    "Vertaling_4": "leeuw",
+    "Oplossing": "hond",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "hauk",
+    "Vertaling_1": "sperwer",
+    "Vertaling_2": "havik",
+    "Vertaling_3": "wrattenzwijn",
+    "Vertaling_4": "toekan",
+    "Oplossing": "havik",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "manet",
+    "Vertaling_1": "zwaan",
+    "Vertaling_2": "mol",
+    "Vertaling_3": "kwal",
+    "Vertaling_4": "hamster",
+    "Oplossing": "kwal",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "esel",
+    "Vertaling_1": "ezel",
+    "Vertaling_2": "ezel",
+    "Vertaling_3": "ibis",
+    "Vertaling_4": "jaguar",
+    "Oplossing": "ezel",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "sel",
+    "Vertaling_1": "sperwer",
+    "Vertaling_2": "sprinkhaan",
+    "Vertaling_3": "ratelslang",
+    "Vertaling_4": "zeehond",
+    "Oplossing": "zeehond",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "frosk",
+    "Vertaling_1": "kikker",
+    "Vertaling_2": "geit",
+    "Vertaling_3": "buidelrat",
+    "Vertaling_4": "nijlpaard",
+    "Oplossing": "kikker",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "gris",
+    "Vertaling_1": "luiaard",
+    "Vertaling_2": "varken",
+    "Vertaling_3": "rendier",
+    "Vertaling_4": "antilope",
+    "Oplossing": "varken",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "pinnsvin",
+    "Vertaling_1": "wezel",
+    "Vertaling_2": "flamingo",
+    "Vertaling_3": "raaf",
+    "Vertaling_4": "egel",
+    "Oplossing": "egel",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "and",
+    "Vertaling_1": "eend",
+    "Vertaling_2": "grizzlybeer",
+    "Vertaling_3": "hyena",
+    "Vertaling_4": "baviaan",
+    "Oplossing": "eend",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "due",
+    "Vertaling_1": "duif",
+    "Vertaling_2": "mier",
+    "Vertaling_3": "bijeneter",
+    "Vertaling_4": "gnoe",
+    "Oplossing": "duif",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "mygg",
+    "Vertaling_1": "geit",
+    "Vertaling_2": "miereneter",
+    "Vertaling_3": "mug",
+    "Vertaling_4": "nijlpaard",
+    "Oplossing": "mug",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "elefant",
+    "Vertaling_1": "oltifant",
+    "Vertaling_2": "kameleon",
+    "Vertaling_3": "muis",
+    "Vertaling_4": "bizon",
+    "Oplossing": "oltifant",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "råbukk",
+    "Vertaling_1": "alpaca",
+    "Vertaling_2": "schildpad",
+    "Vertaling_3": "duif",
+    "Vertaling_4": "reebok",
+    "Oplossing": "reebok",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "marihøne",
+    "Vertaling_1": "panda",
+    "Vertaling_2": "haai",
+    "Vertaling_3": "lieveheerbeest",
+    "Vertaling_4": "yak",
+    "Oplossing": "lieveheerbeest",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "ku",
+    "Vertaling_1": "ezel",
+    "Vertaling_2": "das",
+    "Vertaling_3": "koe",
+    "Vertaling_4": "muis",
+    "Oplossing": "koe",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "sjøstjerne",
+    "Vertaling_1": "kangoeroe",
+    "Vertaling_2": "torenvalk",
+    "Vertaling_3": "bosmarmot",
+    "Vertaling_4": "zeester",
+    "Oplossing": "zeester",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "gård",
+    "Vertaling_1": "boerderij",
+    "Vertaling_2": "gorilla",
+    "Vertaling_3": "flamingo",
+    "Vertaling_4": "leguaan",
+    "Oplossing": "boerderij",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "flaggermus",
+    "Vertaling_1": "vleermuis",
+    "Vertaling_2": "kip",
+    "Vertaling_3": "fuut",
+    "Vertaling_4": "kraanvogel",
+    "Oplossing": "vleermuis",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "stork",
+    "Vertaling_1": "kraai",
+    "Vertaling_2": "pinguïn",
+    "Vertaling_3": "meerval",
+    "Vertaling_4": "ooievaar",
+    "Oplossing": "ooievaar",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "rev",
+    "Vertaling_1": "kaketoe",
+    "Vertaling_2": "veldmuis",
+    "Vertaling_3": "zeeleeuw",
+    "Vertaling_4": "vos",
+    "Oplossing": "vos",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "reker",
+    "Vertaling_1": "luiaard",
+    "Vertaling_2": "boomkikker",
+    "Vertaling_3": "zeearend",
+    "Vertaling_4": "garnaal",
+    "Oplossing": "garnaal",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "maur",
+    "Vertaling_1": "zeeschildpad",
+    "Vertaling_2": "pinguïn",
+    "Vertaling_3": "mier",
+    "Vertaling_4": "potvis",
+    "Oplossing": "mier",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "ulv",
+    "Vertaling_1": "hamster",
+    "Vertaling_2": "cavia",
+    "Vertaling_3": "otter",
+    "Vertaling_4": "wolf",
+    "Oplossing": "wolf",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "pingvin",
+    "Vertaling_1": "vis",
+    "Vertaling_2": "reiger",
+    "Vertaling_3": "mug",
+    "Vertaling_4": "pinguïn",
+    "Oplossing": "pinguïn",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "kalkun",
+    "Vertaling_1": "kip",
+    "Vertaling_2": "kalkoen",
+    "Vertaling_3": "kalkoen",
+    "Vertaling_4": "flamingo",
+    "Oplossing": "kalkoen",
+    "Type": "DIEREN"
+  },
+  {
+    "Woord": "å gyte",
+    "Vertaling_1": "uitvoeren",
+    "Vertaling_2": "kuit schieten",
+    "Vertaling_3": "vreten",
+    "Vertaling_4": "(dicht)slaan",
+    "Oplossing": "kuit schieten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å ri(de)",
+    "Vertaling_1": "herhalen",
+    "Vertaling_2": "fronsen",
+    "Vertaling_3": "rijden (paard-)",
+    "Vertaling_4": "zetten",
+    "Oplossing": "rijden (paard-)",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å smelle",
+    "Vertaling_1": "voorstellen",
+    "Vertaling_2": "knallen",
+    "Vertaling_3": "wakker worden",
+    "Vertaling_4": "lijden",
+    "Oplossing": "knallen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å bringe",
+    "Vertaling_1": "delen",
+    "Vertaling_2": "rijden",
+    "Vertaling_3": "brengen",
+    "Vertaling_4": "graven",
+    "Oplossing": "brengen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å tvinge",
+    "Vertaling_1": "liegen",
+    "Vertaling_2": "slaan; verslaan",
+    "Vertaling_3": "dwingen",
+    "Vertaling_4": "klimmen",
+    "Oplossing": "dwingen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å slåss",
+    "Vertaling_1": "zwaaien, zwenken",
+    "Vertaling_2": "steken",
+    "Vertaling_3": "vechten",
+    "Vertaling_4": "regenen",
+    "Oplossing": "vechten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å sitte",
+    "Vertaling_1": "zitten",
+    "Vertaling_2": "opspringen",
+    "Vertaling_3": "onthouden",
+    "Vertaling_4": "voorbij komen",
+    "Oplossing": "zitten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å stikke",
+    "Vertaling_1": "zullen",
+    "Vertaling_2": "knagen",
+    "Vertaling_3": "steken",
+    "Vertaling_4": "strijken",
+    "Oplossing": "steken",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å hive",
+    "Vertaling_1": "geloven",
+    "Vertaling_2": "ontmoeten",
+    "Vertaling_3": "zinken",
+    "Vertaling_4": "(weg)gooien",
+    "Oplossing": "(weg)gooien",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å skyte",
+    "Vertaling_1": "vastpakken",
+    "Vertaling_2": "breken",
+    "Vertaling_3": "niezen",
+    "Vertaling_4": "schieten",
+    "Oplossing": "schieten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å ville (vil)",
+    "Vertaling_1": "zwaaien",
+    "Vertaling_2": "volgen",
+    "Vertaling_3": "viwillen",
+    "Vertaling_4": "piepen",
+    "Oplossing": "viwillen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å bryte",
+    "Vertaling_1": "breken",
+    "Vertaling_2": "klinken",
+    "Vertaling_3": "knallen",
+    "Vertaling_4": "werpen",
+    "Oplossing": "breken",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å falle",
+    "Vertaling_1": "zien",
+    "Vertaling_2": "vallen",
+    "Vertaling_3": "drinken",
+    "Vertaling_4": "leven",
+    "Oplossing": "vallen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å forsvinne",
+    "Vertaling_1": "vliegen",
+    "Vertaling_2": "wegen",
+    "Vertaling_3": "verdwijnen",
+    "Vertaling_4": "tonen",
+    "Oplossing": "verdwijnen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å legge",
+    "Vertaling_1": "voorbij komen",
+    "Vertaling_2": "studeren",
+    "Vertaling_3": "leggen",
+    "Vertaling_4": "om opgeroepen te worden",
+    "Oplossing": "leggen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å springe",
+    "Vertaling_1": "rennen, springen",
+    "Vertaling_2": "verrassen",
+    "Vertaling_3": "volgen",
+    "Vertaling_4": "optillen",
+    "Oplossing": "rennen, springen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å løpe",
+    "Vertaling_1": "spelen",
+    "Vertaling_2": "snijden",
+    "Vertaling_3": "rennen",
+    "Vertaling_4": "spelen",
+    "Oplossing": "rennen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å brenne",
+    "Vertaling_1": "kunnen",
+    "Vertaling_2": "vragen; bidden",
+    "Vertaling_3": "branden",
+    "Vertaling_4": "dromen",
+    "Oplossing": "branden",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å få",
+    "Vertaling_1": "krijgen",
+    "Vertaling_2": "liggen",
+    "Vertaling_3": "gebeuren",
+    "Vertaling_4": "roepen",
+    "Oplossing": "krijgen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å gjøre/(gjør",
+    "Vertaling_1": "gaan",
+    "Vertaling_2": "treffen, ontmoeten",
+    "Vertaling_3": "doen",
+    "Vertaling_4": "vertelllen",
+    "Oplossing": "doen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å nyse",
+    "Vertaling_1": "fluiten",
+    "Vertaling_2": "niezen",
+    "Vertaling_3": "worden",
+    "Vertaling_4": "(weg)gooien",
+    "Oplossing": "niezen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å gråte",
+    "Vertaling_1": "verschuldigd zijn",
+    "Vertaling_2": "de gewoonte hebben",
+    "Vertaling_3": "huilen",
+    "Vertaling_4": "bedanken",
+    "Oplossing": "huilen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å skrive",
+    "Vertaling_1": "aanbieden; gebieden",
+    "Vertaling_2": "weten",
+    "Vertaling_3": "schrijven",
+    "Vertaling_4": "sluipen",
+    "Oplossing": "schrijven",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å ete",
+    "Vertaling_1": "verhogen",
+    "Vertaling_2": "vreten",
+    "Vertaling_3": "maken",
+    "Vertaling_4": "herhalen",
+    "Oplossing": "vreten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å være (er)",
+    "Vertaling_1": "bijten",
+    "Vertaling_2": "stijgen",
+    "Vertaling_3": "beschrijven",
+    "Vertaling_4": "zijn",
+    "Oplossing": "zijn",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å se",
+    "Vertaling_1": "zwoegen; (ver)slijten",
+    "Vertaling_2": "tonen",
+    "Vertaling_3": "zien",
+    "Vertaling_4": "zweven",
+    "Oplossing": "zien",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å grave",
+    "Vertaling_1": "graven",
+    "Vertaling_2": "loslaten; laten",
+    "Vertaling_3": "knippen",
+    "Vertaling_4": "baden",
+    "Oplossing": "graven",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å velge",
+    "Vertaling_1": "verzenden",
+    "Vertaling_2": "kiezen",
+    "Vertaling_3": "zwaaien, zwenken",
+    "Vertaling_4": "plaatsvinden",
+    "Oplossing": "kiezen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å lyge",
+    "Vertaling_1": "lijken",
+    "Vertaling_2": "liegen",
+    "Vertaling_3": "helpen",
+    "Vertaling_4": "klinken; gehoorzamen",
+    "Oplossing": "liegen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å fortelle",
+    "Vertaling_1": "haasten",
+    "Vertaling_2": "zinken",
+    "Vertaling_3": "vertelllen",
+    "Vertaling_4": "bijten",
+    "Oplossing": "vertelllen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å snyteseg",
+    "Vertaling_1": "hangen",
+    "Vertaling_2": "barsten",
+    "Vertaling_3": "de neus snuiten; oplichten, afzetten",
+    "Vertaling_4": "te ademen",
+    "Oplossing": "de neus snuiten; oplichten, afzetten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å bite",
+    "Vertaling_1": "gebruiken",
+    "Vertaling_2": "bijten",
+    "Vertaling_3": "fotograferen",
+    "Vertaling_4": "controleren",
+    "Oplossing": "bijten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å telle",
+    "Vertaling_1": "trekken",
+    "Vertaling_2": "slingeren",
+    "Vertaling_3": "leuk vinden",
+    "Vertaling_4": "tellen",
+    "Oplossing": "tellen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å si",
+    "Vertaling_1": "zeggen",
+    "Vertaling_2": "worstelen",
+    "Vertaling_3": "komen",
+    "Vertaling_4": "bezoeken",
+    "Oplossing": "zeggen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å sprette",
+    "Vertaling_1": "ontwapenen",
+    "Vertaling_2": "opspringen",
+    "Vertaling_3": "voelen",
+    "Vertaling_4": "spinnen",
+    "Oplossing": "opspringen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å selge",
+    "Vertaling_1": "kauwen",
+    "Vertaling_2": "verkopen",
+    "Vertaling_3": "binden",
+    "Vertaling_4": "doden",
+    "Oplossing": "verkopen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å holde",
+    "Vertaling_1": "verzamelen",
+    "Vertaling_2": "houden, vasthouden",
+    "Vertaling_3": "verschuldigd zijn",
+    "Vertaling_4": "vluchten",
+    "Oplossing": "houden, vasthouden",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å la(te)",
+    "Vertaling_1": "zweven",
+    "Vertaling_2": "baden",
+    "Vertaling_3": "laten",
+    "Vertaling_4": "beëindigen",
+    "Oplossing": "laten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å svinge",
+    "Vertaling_1": "dansen",
+    "Vertaling_2": "afsluiten",
+    "Vertaling_3": "zwaaien, zwenken",
+    "Vertaling_4": "bereiken",
+    "Oplossing": "zwaaien, zwenken",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å nyte",
+    "Vertaling_1": "genieten",
+    "Vertaling_2": "te werken",
+    "Vertaling_3": "delen",
+    "Vertaling_4": "trekken",
+    "Oplossing": "genieten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å trekke",
+    "Vertaling_1": "bedanken",
+    "Vertaling_2": "vertelllen",
+    "Vertaling_3": "smeren",
+    "Vertaling_4": "trekken",
+    "Oplossing": "trekken",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å dra",
+    "Vertaling_1": "trekken",
+    "Vertaling_2": "wakker worden",
+    "Vertaling_3": "storen",
+    "Vertaling_4": "te fluiten",
+    "Oplossing": "trekken",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å by(de)",
+    "Vertaling_1": "sterven",
+    "Vertaling_2": "kloppen",
+    "Vertaling_3": "leggen",
+    "Vertaling_4": "aanbieden; gebieden",
+    "Oplossing": "aanbieden; gebieden",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å snike",
+    "Vertaling_1": "sluipen",
+    "Vertaling_2": "kuit schieten",
+    "Vertaling_3": "lachen",
+    "Vertaling_4": "sterven",
+    "Oplossing": "sluipen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å klype",
+    "Vertaling_1": "verwarmen",
+    "Vertaling_2": "(uit)wijken",
+    "Vertaling_3": "landen",
+    "Vertaling_4": "knijpen",
+    "Oplossing": "knijpen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å treffe",
+    "Vertaling_1": "vinden",
+    "Vertaling_2": "stilstaan",
+    "Vertaling_3": "buigen",
+    "Vertaling_4": "treffen, ontmoeten",
+    "Oplossing": "treffen, ontmoeten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å renne",
+    "Vertaling_1": "overnachten",
+    "Vertaling_2": "kosten",
+    "Vertaling_3": "doorgaan",
+    "Vertaling_4": "stromen, vloeien",
+    "Oplossing": "stromen, vloeien",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å vekke",
+    "Vertaling_1": "wekken",
+    "Vertaling_2": "doden",
+    "Vertaling_3": "te werken",
+    "Vertaling_4": "interesseren",
+    "Oplossing": "wekken",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å pipe",
+    "Vertaling_1": "betekenen",
+    "Vertaling_2": "fluiten",
+    "Vertaling_3": "rapporteren",
+    "Vertaling_4": "samenwerken",
+    "Oplossing": "fluiten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å sette",
+    "Vertaling_1": "zetten",
+    "Vertaling_2": "vullen",
+    "Vertaling_3": "grazen",
+    "Vertaling_4": "betalen",
+    "Oplossing": "zetten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å rive",
+    "Vertaling_1": "opstijgen",
+    "Vertaling_2": "rapporteren",
+    "Vertaling_3": "vullen",
+    "Vertaling_4": "scheuren",
+    "Oplossing": "scheuren",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å henge",
+    "Vertaling_1": "vriezen",
+    "Vertaling_2": "hangen",
+    "Vertaling_3": "zich verheugen",
+    "Vertaling_4": "rennen, springen",
+    "Oplossing": "hangen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å bli",
+    "Vertaling_1": "zijn",
+    "Vertaling_2": "staan",
+    "Vertaling_3": "worden",
+    "Vertaling_4": "schreeuwen",
+    "Oplossing": "worden",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å skvette",
+    "Vertaling_1": "beschrijven",
+    "Vertaling_2": "schrikken; spatten",
+    "Vertaling_3": "schieten",
+    "Vertaling_4": "stijgen",
+    "Oplossing": "schrikken; spatten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å gi",
+    "Vertaling_1": "geven",
+    "Vertaling_2": "toepassen",
+    "Vertaling_3": "geven",
+    "Vertaling_4": "zien",
+    "Oplossing": "geven",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å slenge",
+    "Vertaling_1": "horen",
+    "Vertaling_2": "gaan, reizen",
+    "Vertaling_3": "verdrinken",
+    "Vertaling_4": "slingeren",
+    "Oplossing": "slingeren",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å ta",
+    "Vertaling_1": "wekken",
+    "Vertaling_2": "duwen",
+    "Vertaling_3": "branden",
+    "Vertaling_4": "nemen",
+    "Oplossing": "nemen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å hete",
+    "Vertaling_1": "opschrikken ",
+    "Vertaling_2": "heten",
+    "Vertaling_3": "vliegen",
+    "Vertaling_4": "beginnen",
+    "Oplossing": "heten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å svi",
+    "Vertaling_1": "trillen",
+    "Vertaling_2": "winden",
+    "Vertaling_3": "schrijnen",
+    "Vertaling_4": "gebruiken",
+    "Oplossing": "schrijnen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å forstå",
+    "Vertaling_1": "vergeten",
+    "Vertaling_2": "bedelen",
+    "Vertaling_3": "begrijpen, verstaan",
+    "Vertaling_4": "vasthouden",
+    "Oplossing": "begrijpen, verstaan",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å sove",
+    "Vertaling_1": "slepen",
+    "Vertaling_2": "op lijken",
+    "Vertaling_3": "zweren; vloeken",
+    "Vertaling_4": "slapen",
+    "Oplossing": "slapen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å tie",
+    "Vertaling_1": "knallen",
+    "Vertaling_2": "zwijgen",
+    "Vertaling_3": "worstelen",
+    "Vertaling_4": "draaien",
+    "Oplossing": "zwijgen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å synke",
+    "Vertaling_1": "blijven",
+    "Vertaling_2": "smeren",
+    "Vertaling_3": "duwen",
+    "Vertaling_4": "zinken",
+    "Oplossing": "zinken",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å følge",
+    "Vertaling_1": "volgen",
+    "Vertaling_2": "te fluiten",
+    "Vertaling_3": "knijpen",
+    "Vertaling_4": "lopen (kraan)",
+    "Oplossing": "volgen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å stjele",
+    "Vertaling_1": "regelen",
+    "Vertaling_2": "stelen",
+    "Vertaling_3": "afgeven",
+    "Vertaling_4": "vriezen",
+    "Oplossing": "stelen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å ligge",
+    "Vertaling_1": "houden, vasthouden",
+    "Vertaling_2": "liggen",
+    "Vertaling_3": "studeren",
+    "Vertaling_4": "winnen",
+    "Oplossing": "liggen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å lide",
+    "Vertaling_1": "lijden",
+    "Vertaling_2": "knijpen, klemmen",
+    "Vertaling_3": "slingeren",
+    "Vertaling_4": "schudden",
+    "Oplossing": "lijden",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å binde",
+    "Vertaling_1": "binden",
+    "Vertaling_2": "bestellen",
+    "Vertaling_3": "vastbinden",
+    "Vertaling_4": "zingen",
+    "Oplossing": "vastbinden",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å drive",
+    "Vertaling_1": "vluchten",
+    "Vertaling_2": "kleden",
+    "Vertaling_3": "drijven",
+    "Vertaling_4": "wegglipen",
+    "Oplossing": "drijven",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å stå",
+    "Vertaling_1": "kiezen",
+    "Vertaling_2": "leuk vinden",
+    "Vertaling_3": "nemen",
+    "Vertaling_4": "staan",
+    "Oplossing": "staan",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å be",
+    "Vertaling_1": "karakteriseren",
+    "Vertaling_2": "werpen",
+    "Vertaling_3": "vermoeden",
+    "Vertaling_4": "vragen; bidden",
+    "Oplossing": "vragen; bidden",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å skryte",
+    "Vertaling_1": "ontcijferen",
+    "Vertaling_2": "pochen",
+    "Vertaling_3": "bidden",
+    "Vertaling_4": "liggen",
+    "Oplossing": "pochen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å slippe",
+    "Vertaling_1": "loslaten; laten",
+    "Vertaling_2": "helpen",
+    "Vertaling_3": "knijpen, klemmen",
+    "Vertaling_4": "overdrijven",
+    "Oplossing": "loslaten; laten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å lyde",
+    "Vertaling_1": "klinken; gehoorzamen",
+    "Vertaling_2": "opscheppen",
+    "Vertaling_3": "staan",
+    "Vertaling_4": "doen",
+    "Oplossing": "klinken; gehoorzamen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å kunne (kan)",
+    "Vertaling_1": "kunnen",
+    "Vertaling_2": "voldoende zijn",
+    "Vertaling_3": "krijgen",
+    "Vertaling_4": "op lijken",
+    "Oplossing": "kunnen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å knipe",
+    "Vertaling_1": "overwinteren",
+    "Vertaling_2": "knijpen, klemmen",
+    "Vertaling_3": "vragen",
+    "Vertaling_4": "proberen",
+    "Oplossing": "knijpen, klemmen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å vinne",
+    "Vertaling_1": "doen",
+    "Vertaling_2": "stralen",
+    "Vertaling_3": "winnen",
+    "Vertaling_4": "tellen",
+    "Oplossing": "winnen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å vite (vet)",
+    "Vertaling_1": "moeite doen",
+    "Vertaling_2": "lenen",
+    "Vertaling_3": "rennen",
+    "Vertaling_4": "weten",
+    "Oplossing": "weten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å sverge",
+    "Vertaling_1": "samenwerken",
+    "Vertaling_2": "wegblazen",
+    "Vertaling_3": "trillen",
+    "Vertaling_4": "zweren; vloeken",
+    "Oplossing": "zweren; vloeken",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å gå",
+    "Vertaling_1": "gaan (te voet)",
+    "Vertaling_2": "glijden",
+    "Vertaling_3": "rijden",
+    "Vertaling_4": "verbergen",
+    "Oplossing": "gaan (te voet)",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å gli",
+    "Vertaling_1": "bedekken",
+    "Vertaling_2": "zingen",
+    "Vertaling_3": "vragen; bidden",
+    "Vertaling_4": "glijden",
+    "Oplossing": "glijden",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å kveppe",
+    "Vertaling_1": "kruipen",
+    "Vertaling_2": "opschrikken ",
+    "Vertaling_3": "betekenen",
+    "Vertaling_4": "houden, vasthouden",
+    "Oplossing": "opschrikken ",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å gni",
+    "Vertaling_1": "(dicht)slaan",
+    "Vertaling_2": "onthouden",
+    "Vertaling_3": "zwijgen",
+    "Vertaling_4": "wrijven",
+    "Oplossing": "wrijven",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å gjelde",
+    "Vertaling_1": "gelden",
+    "Vertaling_2": "nodig hebben",
+    "Vertaling_3": "scheuren",
+    "Vertaling_4": "afsluiten",
+    "Oplossing": "gelden",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å måtte (må)",
+    "Vertaling_1": "moeten",
+    "Vertaling_2": "gelden",
+    "Vertaling_3": "beslissen",
+    "Vertaling_4": "stromen, vloeien",
+    "Oplossing": "moeten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å le",
+    "Vertaling_1": "begrijpen, verstaan",
+    "Vertaling_2": "in de steek laten, bedriegen",
+    "Vertaling_3": "lachen",
+    "Vertaling_4": "opstijgen",
+    "Oplossing": "lachen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å finne",
+    "Vertaling_1": "vinden",
+    "Vertaling_2": "slapen",
+    "Vertaling_3": "bevelen",
+    "Vertaling_4": "bedelen",
+    "Oplossing": "vinden",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å knekke",
+    "Vertaling_1": "klimmen",
+    "Vertaling_2": "breken",
+    "Vertaling_3": "treden",
+    "Vertaling_4": "moeten",
+    "Oplossing": "breken",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å fly",
+    "Vertaling_1": "vouwen",
+    "Vertaling_2": "krijgen",
+    "Vertaling_3": "stralen",
+    "Vertaling_4": "vliegen",
+    "Oplossing": "vliegen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å stige",
+    "Vertaling_1": "wachten",
+    "Vertaling_2": "dragen",
+    "Vertaling_3": "vallen",
+    "Vertaling_4": "stijgen",
+    "Oplossing": "stijgen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å fare",
+    "Vertaling_1": "gaan, reizen",
+    "Vertaling_2": "staren",
+    "Vertaling_3": "dwingen",
+    "Vertaling_4": "blijven",
+    "Oplossing": "gaan, reizen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å spinne",
+    "Vertaling_1": "zweren; vloeken",
+    "Vertaling_2": "storen",
+    "Vertaling_3": "stoppen",
+    "Vertaling_4": "spinnen",
+    "Oplossing": "spinnen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å drikke",
+    "Vertaling_1": "drinken",
+    "Vertaling_2": "schieten",
+    "Vertaling_3": "grijpen",
+    "Vertaling_4": "handelen",
+    "Oplossing": "drinken",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å vinde",
+    "Vertaling_1": "winden",
+    "Vertaling_2": "om opgeroepen te worden",
+    "Vertaling_3": "liegen",
+    "Vertaling_4": "overwinteren",
+    "Oplossing": "winden",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å skjelve",
+    "Vertaling_1": "betalen",
+    "Vertaling_2": "beven",
+    "Vertaling_3": "regelen",
+    "Vertaling_4": "annuleren",
+    "Oplossing": "beven",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å rekke",
+    "Vertaling_1": "strijden",
+    "Vertaling_2": "halen, voldoende zijn",
+    "Vertaling_3": "zullen",
+    "Vertaling_4": "kleden",
+    "Oplossing": "halen, voldoende zijn",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å fryse",
+    "Vertaling_1": "hopen",
+    "Vertaling_2": "interesseren",
+    "Vertaling_3": "vriezen; het koud hebben",
+    "Vertaling_4": "openen",
+    "Oplossing": "vriezen; het koud hebben",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å skyve",
+    "Vertaling_1": "duzen",
+    "Vertaling_2": "zetten",
+    "Vertaling_3": "kloppen",
+    "Vertaling_4": "beven",
+    "Oplossing": "duzen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å ryke",
+    "Vertaling_1": "bedriegen",
+    "Vertaling_2": "roken, dampen",
+    "Vertaling_3": "begrijpen",
+    "Vertaling_4": "kunnen",
+    "Oplossing": "roken, dampen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å slå",
+    "Vertaling_1": "rijden (op een dier)",
+    "Vertaling_2": "slaan; verslaan",
+    "Vertaling_3": "klinken",
+    "Vertaling_4": "te moeten",
+    "Oplossing": "slaan; verslaan",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å stri(de)",
+    "Vertaling_1": "leggen",
+    "Vertaling_2": "strijden",
+    "Vertaling_3": "ontmoeten",
+    "Vertaling_4": "wekken",
+    "Oplossing": "strijden",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å smette",
+    "Vertaling_1": "gloeien",
+    "Vertaling_2": "(weg)gooien",
+    "Vertaling_3": "opscheppen",
+    "Vertaling_4": "wegglipen",
+    "Oplossing": "wegglipen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å stryke",
+    "Vertaling_1": "strijken",
+    "Vertaling_2": "zwijgen",
+    "Vertaling_3": "aanbieden; gebieden",
+    "Vertaling_4": "ontwapenen",
+    "Oplossing": "strijken",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å skulle (skal)",
+    "Vertaling_1": "halen",
+    "Vertaling_2": "houden van",
+    "Vertaling_3": "verzamelen",
+    "Vertaling_4": "zullen",
+    "Oplossing": "zullen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å klyve",
+    "Vertaling_1": "klimmen",
+    "Vertaling_2": "schrijden",
+    "Vertaling_3": "gaan (te voet)",
+    "Vertaling_4": "vinden",
+    "Oplossing": "klimmen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å bære",
+    "Vertaling_1": "prefereren",
+    "Vertaling_2": "dragen",
+    "Vertaling_3": "werken",
+    "Vertaling_4": "schrijnen",
+    "Oplossing": "dragen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å skri(de)",
+    "Vertaling_1": "branden",
+    "Vertaling_2": "schrijnen",
+    "Vertaling_3": "huilen",
+    "Vertaling_4": "schrijden",
+    "Oplossing": "schrijden",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å strekke",
+    "Vertaling_1": "voldoende zijn",
+    "Vertaling_2": "leren",
+    "Vertaling_3": "roken ",
+    "Vertaling_4": "bedriegen",
+    "Oplossing": "voldoende zijn",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å tigge",
+    "Vertaling_1": "bezoeken",
+    "Vertaling_2": "gebeuren",
+    "Vertaling_3": "bedelen",
+    "Vertaling_4": "uitvoeren",
+    "Oplossing": "bedelen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å flyte",
+    "Vertaling_1": "rennen, springen",
+    "Vertaling_2": "wrijven",
+    "Vertaling_3": "duzen",
+    "Vertaling_4": "drijven, vloeien",
+    "Oplossing": "drijven, vloeien",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å svike",
+    "Vertaling_1": "drinken",
+    "Vertaling_2": "buigen",
+    "Vertaling_3": "vervoeren",
+    "Vertaling_4": "in de steek laten, bedriegen",
+    "Oplossing": "in de steek laten, bedriegen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å tre",
+    "Vertaling_1": "treden",
+    "Vertaling_2": "spreken",
+    "Vertaling_3": "slaan",
+    "Vertaling_4": "verliezen",
+    "Oplossing": "treden",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å briste",
+    "Vertaling_1": "barsten",
+    "Vertaling_2": "klinken; gehoorzamen",
+    "Vertaling_3": "(uit)wijken",
+    "Vertaling_4": "opschrikken ",
+    "Oplossing": "barsten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å gripe",
+    "Vertaling_1": "grijpen",
+    "Vertaling_2": "treden",
+    "Vertaling_3": "vastbinden",
+    "Vertaling_4": "halen, voldoende zijn",
+    "Oplossing": "grijpen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å synge",
+    "Vertaling_1": "zingen",
+    "Vertaling_2": "knippen",
+    "Vertaling_3": "hopen",
+    "Vertaling_4": "eindigen",
+    "Oplossing": "zingen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å sprekke",
+    "Vertaling_1": "barsten",
+    "Vertaling_2": "rijden (paard-)",
+    "Vertaling_3": "kopen",
+    "Vertaling_4": "spreken",
+    "Oplossing": "barsten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å spørre (spør)",
+    "Vertaling_1": "beslissen",
+    "Vertaling_2": "leven",
+    "Vertaling_3": "vragen; bidden",
+    "Vertaling_4": "slepen",
+    "Oplossing": "vragen; bidden",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å klinge",
+    "Vertaling_1": "reizen",
+    "Vertaling_2": "klinken",
+    "Vertaling_3": "overnachten",
+    "Vertaling_4": "vriezen; het koud hebben",
+    "Oplossing": "klinken",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å hjelpe",
+    "Vertaling_1": "uitleggen",
+    "Vertaling_2": "werken",
+    "Vertaling_3": "helpen",
+    "Vertaling_4": "vergeten",
+    "Oplossing": "helpen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å tygge",
+    "Vertaling_1": "beven",
+    "Vertaling_2": "verkopen",
+    "Vertaling_3": "kauwen",
+    "Vertaling_4": "toepassen",
+    "Oplossing": "kauwen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å skjære",
+    "Vertaling_1": "verliezen",
+    "Vertaling_2": "moeten",
+    "Vertaling_3": "snijden",
+    "Vertaling_4": "prefereren",
+    "Oplossing": "snijden",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å krype",
+    "Vertaling_1": "zeggen",
+    "Vertaling_2": "te moeten",
+    "Vertaling_3": "kruipen",
+    "Vertaling_4": "voldoende zijn",
+    "Oplossing": "kruipen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å vike",
+    "Vertaling_1": "(uit)wijken",
+    "Vertaling_2": "vervoeren",
+    "Vertaling_3": "horen",
+    "Vertaling_4": "brengen",
+    "Oplossing": "(uit)wijken",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å vri",
+    "Vertaling_1": "dromen",
+    "Vertaling_2": "schreeuwen",
+    "Vertaling_3": "draaien",
+    "Vertaling_4": "schrikken; spatten",
+    "Oplossing": "draaien",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å brekke",
+    "Vertaling_1": "worden",
+    "Vertaling_2": "verdrinken",
+    "Vertaling_3": "staren",
+    "Vertaling_4": "breken",
+    "Oplossing": "breken",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å ha",
+    "Vertaling_1": "bereiken",
+    "Vertaling_2": "vertellen",
+    "Vertaling_3": "hebben",
+    "Vertaling_4": "heten",
+    "Oplossing": "hebben",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å skrike",
+    "Vertaling_1": "openen",
+    "Vertaling_2": "bezitten",
+    "Vertaling_3": "begrijpen, verstaan",
+    "Vertaling_4": "schreeuwen",
+    "Oplossing": "schreeuwen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å slite",
+    "Vertaling_1": "viwillen",
+    "Vertaling_2": "voelen",
+    "Vertaling_3": "zwoegen; (ver)slijten",
+    "Vertaling_4": "gloeien",
+    "Oplossing": "zwoegen; (ver)slijten",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å smøre",
+    "Vertaling_1": "smeren",
+    "Vertaling_2": "verheugen",
+    "Vertaling_3": "kauwen",
+    "Vertaling_4": "gaan",
+    "Oplossing": "smeren",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å gnage",
+    "Vertaling_1": "laten vallen",
+    "Vertaling_2": "knagen",
+    "Vertaling_3": "wegen",
+    "Vertaling_4": "glijden",
+    "Oplossing": "knagen",
+    "Type": "ONREGELMATIG"
+  },
+  {
+    "Woord": "å komme",
+    "Vertaling_1": "komen",
+    "Vertaling_2": "duzen",
+    "Vertaling_3": "drijven",
+    "Vertaling_4": "nodig hebben",
+    "Oplossing": "komen",
+    "Type": "ONREGELMATIG"
+  }
+]
