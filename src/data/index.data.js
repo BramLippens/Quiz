@@ -25,7 +25,7 @@ const initializeKnex = async () => {
 
   // 1. Attempt direct connection to verify database existence:
   try {
-    const knexInstance = knex(options);
+    knexInstance = knex(options);
     await knexInstance.raw("SELECT 1;"); // Simple query to validate connection and existence
     console.log("Database already exists, proceeding with migrations and seeds...");
 

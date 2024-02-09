@@ -1,8 +1,8 @@
+const { getRandWord } = require("../data/dao/word.dao");
+
 const getOneQuestionWithAnswers = async () => {
-  return {
-    question: "Is this a question?",
-    answers: ["Answer 1", "Answer 2", "Answer 3", "Answer 4"],
-  };
+  const question = await getRandWord();
+  return question;
 };
 
 module.exports = {
